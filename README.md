@@ -1,16 +1,17 @@
-## Aspiring AI/ML Engineer | Python | Building ML projects"
+# 👋 Hi, I'm Sammani Jibril Baba.
 
-<!--
-**Sammanibaba/Sammanibaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring AI/ML Engineer transitioning into AI roles
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python | NumPy | Pandas | Scikit-learn
+- Currently learning: PyTorch | LangChain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+| Project | Description | Tools |
+|---|---|---|
+| House Price Predictor | ML model to predict housing prices | Pandas, Scikit-learn |
+| (more coming soon...) | | |
+
+## 📚 Currently Learning
+- Phase 1: ML Foundations
+- Goal: AI/ML Engineer role by December 2026
