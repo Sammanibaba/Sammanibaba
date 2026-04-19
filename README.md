@@ -1,4 +1,4 @@
-## Hi there 👋
+## Aspiring AI/ML Engineer | Python | Building ML projects"
 
 <!--
 **Sammanibaba/Sammanibaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
